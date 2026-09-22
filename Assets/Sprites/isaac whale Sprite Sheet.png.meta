@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: a0de1bd2da72d934dbb247f00f820dad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1371476009374286513
+    second: isaac whale Sprite Sheet_0
+  - first:
+      213: 4344793426919517950
+    second: isaac whale Sprite Sheet_1
+  - first:
+      213: -4112108829417074026
+    second: isaac whale Sprite Sheet_2
+  - first:
+      213: 5224917820609224591
+    second: isaac whale Sprite Sheet_3
+  - first:
+      213: 434615132710854811
+    second: isaac whale Sprite Sheet_4
+  - first:
+      213: 3571794613780733174
+    second: isaac whale Sprite Sheet_5
+  - first:
+      213: 4814103161725315289
+    second: isaac whale Sprite Sheet_6
+  - first:
+      213: 1506437341153557393
+    second: isaac whale Sprite Sheet_7
+  - first:
+      213: -2118390767833733017
+    second: isaac whale Sprite Sheet_8
+  - first:
+      213: 6581865059959591260
+    second: isaac whale Sprite Sheet_9
+  - first:
+      213: -1502736426339894439
+    second: isaac whale Sprite Sheet_10
+  - first:
+      213: 5365558363617089320
+    second: isaac whale Sprite Sheet_11
+  - first:
+      213: -5666474861312704350
+    second: isaac whale Sprite Sheet_12
+  - first:
+      213: 5645425741600041338
+    second: isaac whale Sprite Sheet_13
+  - first:
+      213: 8961586093518325591
+    second: isaac whale Sprite Sheet_14
+  - first:
+      213: 6804715020164981440
+    second: isaac whale Sprite Sheet_15
+  - first:
+      213: 5037447056301193409
+    second: isaac whale Sprite Sheet_16
+  - first:
+      213: -8076438541363953349
+    second: isaac whale Sprite Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 661
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b289b40a26780310800000000000000
+      internalID: 1371476009374286513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 661
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6df12a9ecb4c30800000000000000
+      internalID: 4344793426919517950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 661
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69219d87ecadee6c0800000000000000
+      internalID: -4112108829417074026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 533
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f55063313a28840800000000000000
+      internalID: 5224917820609224591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 533
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b906d371920180600800000000000000
+      internalID: 434615132710854811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 533
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcdd0de640919130800000000000000
+      internalID: 3571794613780733174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 405
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e8b2c1512fc240800000000000000
+      internalID: 4814103161725315289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 405
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b77d3c7c0f7e410800000000000000
+      internalID: 1506437341153557393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 405
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768adc302d6f992e0800000000000000
+      internalID: -2118390767833733017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 277
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51527a566b775b50800000000000000
+      internalID: 6581865059959591260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 277
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b78fc9e25352be0800000000000000
+      internalID: -1502736426339894439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 277
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827d50d57ea467a40800000000000000
+      internalID: 5365558363617089320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a086cac223ac51b0800000000000000
+      internalID: -5666474861312704350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 149
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79aaed1dc4985e40800000000000000
+      internalID: 5645425741600041338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 149
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578d305213fd5c70800000000000000
+      internalID: 8961586093518325591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 106
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e2b602443f6e50800000000000000
+      internalID: 6804715020164981440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 21
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87bad786b98e540800000000000000
+      internalID: 5037447056301193409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isaac whale Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 21
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b314abbffe9baef80800000000000000
+      internalID: -8076438541363953349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      isaac whale Sprite Sheet_0: 1371476009374286513
+      isaac whale Sprite Sheet_1: 4344793426919517950
+      isaac whale Sprite Sheet_10: -1502736426339894439
+      isaac whale Sprite Sheet_11: 5365558363617089320
+      isaac whale Sprite Sheet_12: -5666474861312704350
+      isaac whale Sprite Sheet_13: 5645425741600041338
+      isaac whale Sprite Sheet_14: 8961586093518325591
+      isaac whale Sprite Sheet_15: 6804715020164981440
+      isaac whale Sprite Sheet_16: 5037447056301193409
+      isaac whale Sprite Sheet_17: -8076438541363953349
+      isaac whale Sprite Sheet_2: -4112108829417074026
+      isaac whale Sprite Sheet_3: 5224917820609224591
+      isaac whale Sprite Sheet_4: 434615132710854811
+      isaac whale Sprite Sheet_5: 3571794613780733174
+      isaac whale Sprite Sheet_6: 4814103161725315289
+      isaac whale Sprite Sheet_7: 1506437341153557393
+      isaac whale Sprite Sheet_8: -2118390767833733017
+      isaac whale Sprite Sheet_9: 6581865059959591260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

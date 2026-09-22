@@ -556,15 +556,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4704adf934ddd4db0a2e8a48cec0266d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 0}
+  music: {fileID: 8300000, guid: 0ccb798da34d1f444a490779dd9a9e6b, type: 3}
   musicVolume: 1
   ambience: {fileID: 0}
   ambienceVolume: 1
   playerMove: {fileID: 0}
   playerMoveVolume: 1
-  fireProjectile: {fileID: 0}
+  fireProjectile: {fileID: 8300000, guid: 97397f0c353499847b873f9ece0b4a3d, type: 3}
   fireProjectileVolume: 1
-  projectileImpact: {fileID: 0}
+  projectileImpact: {fileID: 8300000, guid: 97397f0c353499847b873f9ece0b4a3d, type: 3}
   projectileImpactVolume: 1
   crateDestroyed: {fileID: 0}
   crateDestroyedVolume: 1
@@ -584,43 +584,43 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a8fb8ccb1a084c59a86ad73efd8ee89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundImage: {fileID: 0}
+  backgroundImage: {fileID: 951271495327567811, guid: 90c0828b31bdcfb4caeafee2cd0299c5, type: 3}
   playerVisuals:
-    playerStartingDirection: 0
+    playerStartingDirection: 1
     animController: {fileID: 9100000, guid: c8653265f5c6d4e0c8768052f956f52e, type: 2}
-    defaultSprite: {fileID: 0}
+    defaultSprite: {fileID: 1371476009374286513, guid: a0de1bd2da72d934dbb247f00f820dad, type: 3}
     color: {r: 0.14117643, g: 0.29628542, b: 1, a: 1}
     spriteColorOverride: 0
     impactColor: {r: 1, g: 0, b: 0, a: 1}
   projectileVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
-    color: {r: 1, g: 0.8624264, b: 0, a: 1}
+    sprite: {fileID: 2922901230515070322, guid: f336dda2e98729c42bb61b4d83744478, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
     spriteColorOverride: 0
-    enableTrail: 0
+    enableTrail: 1
   tileVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 21300000, guid: 31c3e3c2fe4d64f9fabc824061bf7435, type: 3}
-    color: {r: 0.740566, g: 0.83335626, b: 1, a: 1}
+    sprite: {fileID: 8472857840622236479, guid: 70bbfd1029232794eb9d672234d7c2f5, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
     spriteColorOverride: 0
   crateVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: -2702583207074919582, guid: 82dae3fdf0395784ca38167f6bb0710e, type: 3}
     color: {r: 1, g: 0.540573, b: 0.23137254, a: 1}
     spriteColorOverride: 0
   trapVisuals:
-    animController: {fileID: 9100000, guid: 5e30d926dfad446939ee58ae988b1168, type: 2}
-    sprite: {fileID: 0}
+    animController: {fileID: 0}
+    sprite: {fileID: -7714466831279198109, guid: 33593277850e2d546a6c0038f83549c8, type: 3}
     color: {r: 1, g: 0, b: 0.36335707, a: 1}
     spriteColorOverride: 0
   blockVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: -3684656286540273888, guid: 217a4c84837747242bb1293c56b64423, type: 3}
     color: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 1}
     spriteColorOverride: 0
   goalVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 0}
+    sprite: {fileID: 6967223342623710961, guid: 999cc40471870df4398a8b53bacb0ef4, type: 3}
     color: {r: 0, g: 1, b: 0.7911868, a: 1}
     spriteColorOverride: 0
 --- !u!114 &325063153
@@ -635,7 +635,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ca2f95a7db4e4b3ca9d3dedbde6e80c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  allowPlayerRotation: 0
+  allowPlayerRotation: 1
   fireKey: 32
   playerMoveSpeed: 3
   projectileSpeed: 7
@@ -724,7 +724,7 @@ MonoBehaviour:
   restartButtonColor: {r: 1, g: 1, b: 1, a: 1}
   restartTextColor: {r: 0, g: 0, b: 0, a: 1}
   backPanelColor: {r: 0.509434, g: 0.509434, b: 0.509434, a: 0.7019608}
-  backPanelImage: {fileID: 0}
+  backPanelImage: {fileID: 522261638792915594, guid: 3e8a713a5b9828843a49c608fb04759d, type: 3}
   spriteColorOverride: 0
 --- !u!1 &488166816
 GameObject:
@@ -900,38 +900,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
-  m_RenderShadows: 1
-  m_RequiresDepthTextureOption: 2
-  m_RequiresOpaqueTextureOption: 2
-  m_CameraType: 0
-  m_Cameras: []
-  m_RendererIndex: -1
-  m_VolumeLayerMask:
-    serializedVersion: 2
-    m_Bits: 1
-  m_VolumeTrigger: {fileID: 0}
-  m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
-  m_Antialiasing: 0
-  m_AntialiasingQuality: 2
-  m_StopNaN: 0
-  m_Dithering: 0
-  m_ClearDepth: 1
-  m_AllowXRRendering: 1
-  m_AllowHDROutput: 1
-  m_UseScreenCoordOverride: 0
-  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
-  m_RequiresDepthTexture: 0
-  m_RequiresColorTexture: 0
-  m_TaaSettings:
-    m_Quality: 3
-    m_FrameInfluence: 0.1
-    m_JitterScale: 1
-    m_MipBias: 0
-    m_VarianceClampScale: 0.9
-    m_ContrastAdaptiveSharpening: 0
-  m_Version: 2
 --- !u!1 &573890470
 GameObject:
   m_ObjectHideFlags: 0
