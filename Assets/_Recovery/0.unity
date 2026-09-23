@@ -587,7 +587,7 @@ MonoBehaviour:
   backgroundImage: {fileID: 951271495327567811, guid: 90c0828b31bdcfb4caeafee2cd0299c5, type: 3}
   playerVisuals:
     playerStartingDirection: 1
-    animController: {fileID: 9100000, guid: d0e7837023704b046b901e2a05431e01, type: 2}
+    animController: {fileID: 9100000, guid: c8653265f5c6d4e0c8768052f956f52e, type: 2}
     defaultSprite: {fileID: 1371476009374286513, guid: a0de1bd2da72d934dbb247f00f820dad, type: 3}
     color: {r: 0.14117643, g: 0.29628542, b: 1, a: 1}
     spriteColorOverride: 0
@@ -605,7 +605,7 @@ MonoBehaviour:
     spriteColorOverride: 0
   crateVisuals:
     animController: {fileID: 0}
-    sprite: {fileID: 2310098840831520647, guid: f84fc8b442cb58541a51ddee0e394730, type: 3}
+    sprite: {fileID: -2702583207074919582, guid: 82dae3fdf0395784ca38167f6bb0710e, type: 3}
     color: {r: 1, g: 0.540573, b: 0.23137254, a: 1}
     spriteColorOverride: 0
   trapVisuals:
